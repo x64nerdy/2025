@@ -6,6 +6,6 @@ To write my shader, I used the website [Shadertoy](https://www.shadertoy.com/). 
 
 Here's a static image of the shader (Couldn't get gifs working for some reason yet)  
 
-<img src="shader_static_image.png" alt="static image of shader">
+[![Shader Video](./shader_static_image.png)](https://youtu.be/tFWxgBrcLGc)
 
-## [Link to Shadertoy](https://www.shadertoy.com/view/MXycDR) : [Watch Video Here](https://youtu.be/tFWxgBrcLGc)
+## [Link to Shadertoy](https://www.shadertoy.com/view/MXycDR)
