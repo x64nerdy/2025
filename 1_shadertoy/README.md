@@ -1,4 +1,4 @@
-# Week 1: Writing my first shader
+# Project 1: Writing My First Shader
 
 I spent this first week learning the (OpenGL) rendering pipeline and I figured it would be interesting to experiment with shaders. and after learning about the concept of shaders, I thought it would be interesting to exepriment with them myself.  
 

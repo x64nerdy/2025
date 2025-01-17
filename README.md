@@ -1,1 +1,1 @@
-# My Personal Projects of 2025
+# Personal Projects of 2025
